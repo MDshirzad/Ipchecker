@@ -28,4 +28,4 @@ while 1:
 	 		
 	subprocess.run(["/usr/bin/notify-send", "--icon=error", country]) #making notification in linuxe
 	time.sleep(10) #per second 		
-
+#Programmed by MDshirzad
