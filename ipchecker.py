@@ -1,11 +1,11 @@
-from requests.auth import HTTPBasicAuth
+
 import requests
 import json
 import time
 import subprocess
 
 
-key="YOU_KEY"
+key="YOUR_KEY"
  
 url = f'https://api.ipgeolocation.io/ipgeo?apiKey={key}'
 
