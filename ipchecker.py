@@ -27,6 +27,6 @@ while 1:
 		elif (key == 'country_name'):
 	 		country=value
 	 		
-	subprocess.run(["/usr/bin/notify-send", "--icon=error", country]) #making notification in linuxe
-	time.sleep(10) #per second 		
+	subprocess.run(["/usr/bin/notify-send", "--icon=error", country]) #Making notification in linuxe, you can add ip here too
+	time.sleep(10) #Per second 		
 #Programmed by MDshirzad
